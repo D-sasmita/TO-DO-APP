@@ -1,24 +1,3 @@
-// import { useState } from 'react';
-// import './App.css';
-
-// function App() {
-//   const [curTask, setCurTask]=useState("");
-//   return (
-//     <div className="App">
-//       <h1>TO DO APP</h1>
-//       <label>Enter a Task:</label> &nbsp;
-//       <input type="text"/>
-//       <button>Add </button>
-//       <ul>
-//         <li>Sample Task</li>
-//       </ul>
-//     </div>
-//   );
-// }
-
-// export default App;
-
-
 
 import { useState } from "react";
 import "./App.css"; // Import the CSS file
