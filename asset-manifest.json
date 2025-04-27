@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/D-sasmita/TO-DO-APP/static/css/main.81d35139.css",
-    "main.js": "/D-sasmita/TO-DO-APP/static/js/main.aea4f563.js",
-    "static/js/453.ffbcad76.chunk.js": "/D-sasmita/TO-DO-APP/static/js/453.ffbcad76.chunk.js",
-    "index.html": "/D-sasmita/TO-DO-APP/index.html",
-    "main.81d35139.css.map": "/D-sasmita/TO-DO-APP/static/css/main.81d35139.css.map",
-    "main.aea4f563.js.map": "/D-sasmita/TO-DO-APP/static/js/main.aea4f563.js.map",
-    "453.ffbcad76.chunk.js.map": "/D-sasmita/TO-DO-APP/static/js/453.ffbcad76.chunk.js.map"
+    "main.css": "/TO-DO-APP/static/css/main.81d35139.css",
+    "main.js": "/TO-DO-APP/static/js/main.374cd9aa.js",
+    "static/js/453.ffbcad76.chunk.js": "/TO-DO-APP/static/js/453.ffbcad76.chunk.js",
+    "index.html": "/TO-DO-APP/index.html",
+    "main.81d35139.css.map": "/TO-DO-APP/static/css/main.81d35139.css.map",
+    "main.374cd9aa.js.map": "/TO-DO-APP/static/js/main.374cd9aa.js.map",
+    "453.ffbcad76.chunk.js.map": "/TO-DO-APP/static/js/453.ffbcad76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81d35139.css",
-    "static/js/main.aea4f563.js"
+    "static/js/main.374cd9aa.js"
   ]
 }
