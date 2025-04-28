@@ -1,3 +1,22 @@
+# My Simple To-Do Application
+
+This is a straightforward to-do application built using React. 
+
+## Key Features
+
+This to-do application includes the following core features:
+
+  * **Add New Tasks:** Easily add new tasks to your list by typing them in and submitting.
+  * **View All Tasks:** See a comprehensive list of all the tasks you've added.
+  * **Mark as Complete:** Toggle the status of a task to mark it as completed. Completed tasks might have a visual indicator (e.g., a strikethrough).
+  * **Delete Tasks:** Remove tasks from your list that are no longer needed.
+  * **Task Filtering:** Easily filter your tasks to view:
+    * **All Tasks:** Shows all tasks, regardless of their completion status.
+    * **Completed Tasks:** Displays only the tasks that have been marked as done.
+    * **Active Tasks:** Shows only the tasks that are yet to be completed.
+
+## Installation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
